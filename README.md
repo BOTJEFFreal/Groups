@@ -5,9 +5,9 @@ This simple application is built to store similar users' tabs together in a grou
 This will help the user de-clutter the title bar and help them concentrate on a specific task. As fewer tabs are open, fewer computer resources will be used.
 
 # Screenshots:
-<img src="/Screenshots/1st image.png" height="400px"/>\
-<img src="/Screenshots/2nd image.png" height="600px"/>
-<img src="/Screenshots/3rd image.png" height="600px"/>
+<img src="/Screenshots/1stimage.png" height="400px"/>\
+<img src="/Screenshots/2ndimage.png" height="600px"/>
+<img src="/Screenshots/3rdimage.png" height="600px"/>
 
 #Further Additions
 
