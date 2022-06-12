@@ -6,8 +6,8 @@ This will help the user de-clutter the title bar and help them concentrate on a 
 
 # Screenshots:
 <img src="/Screenshot/1stimage.png" height="400px"/>\
-<img src="/Screenshot/2ndimage.png" height="500px"/>
-<img src="/Screenshot/3rdimage.png" height="500px"/>
+<img src="/Screenshot/2ndimage.png" height="500px"/>\
+<img src="/Screenshot/3rdimage.png" height="600px"/>
 
 #Further Additions
 
